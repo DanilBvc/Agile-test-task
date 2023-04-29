@@ -1,0 +1,21 @@
+{
+  "name": "agile-test-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "first": "node tasks/firstTask/firstTask.js",
+    "second": "node tasks/secondTask/secondTask.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanilBvc/Agile-test-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanilBvc/Agile-test-task/issues"
+  },
+  "homepage": "https://github.com/DanilBvc/Agile-test-task#readme"
+}
